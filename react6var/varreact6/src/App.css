@@ -1,0 +1,22 @@
+.App {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+table {
+  border: 1px solid black;
+  margin: 40px;
+  border-collapse: collapse;
+  background-color: deeppink;
+  color: white;
+}
+th,
+td {
+  border: 1px hidden black;
+  padding: 10px;
+  text-align: left;
+}
+h2 {
+  color: deeppink;
+}
